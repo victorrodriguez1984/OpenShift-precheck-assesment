@@ -1,9 +1,9 @@
 
 # OpenShift Assessment Toolkit
-
 This repository contains a set of **non-disruptive diagnostic scripts**
 used to assess OpenShift clusters before upgrades, go-live events, or
 incident analysis.
+>Note: See this repo for further scripts https://deepwiki.com/openshift/managed-scripts/5-cee-scripts 
 
 ## Minimum Permissions
 - Cluster Viewer role for cluster-wide read access 
